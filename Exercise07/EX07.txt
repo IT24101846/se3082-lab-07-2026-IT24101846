@@ -1,0 +1,7 @@
+Program	        Time
+Bcast	        0.0027s
+Scatter	        0.0054s
+Gather	        0.0055s
+Reduce	        0.0055s
+Allreduce	0.0054s
+Scan	        0.0315s
